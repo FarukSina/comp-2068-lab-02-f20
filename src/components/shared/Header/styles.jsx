@@ -19,5 +19,10 @@ export default {
       margin: 0;
       font-family: 'Montserrat', sans-serif;
     }
+    p{
+      padding: 0;
+      margin: 0;
+      font-family: 'Montserrat', sans-serif;
+    }
   `
 }
